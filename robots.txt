@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://dragonia-online-ca.com/
+Sitemap: https://dragonia-online-ca.com/sitemap.xml
